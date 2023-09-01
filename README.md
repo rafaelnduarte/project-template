@@ -1,3 +1,5 @@
+<img alt="Alt da Imagem" width="20%" src="https://raw.githubusercontent.com/carlosfab/escola-data-science/master/img/novo_logo_bg_claro.png">
+
 # Templates de Portfólio 
 
 Bem-vindo ao repositório de Templates de Portfólio! Este repositório foi criado para fornecer uma base sólida para construir seus próprios portfólios impressionantes. Os modelos fornecidos aqui são projetados para destacar suas habilidades, experiências e projetos de maneira profissional e atrativa.

@@ -1,3 +1,5 @@
+<img alt="Alt da Imagem" width="20%" src="https://raw.githubusercontent.com/carlosfab/escola-data-science/master/img/novo_logo_bg_claro.png">
+
 # Entendendo o Mercado do Airbnb no Rio de Janeiro
 
 ## Visão Geral 🔎

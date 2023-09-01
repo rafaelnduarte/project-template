@@ -1,3 +1,5 @@
+<img alt="Alt da Imagem" width="20%" src="https://raw.githubusercontent.com/carlosfab/escola-data-science/master/img/novo_logo_bg_claro.png">
+
 # Portfólio de Engenheiro de Visão Computacional
 
 Olá! Sou [Seu Nome], um Engenheiro de Visão Computacional apaixonado com [X] anos de experiência, especializado em projetos de detecção de objetos em tempo real, segmentação de imagens e reconhecimento facial. Minha abordagem combina criatividade e pragmatismo para criar soluções inovadoras com ferramentas como OpenCV, TensorFlow e PyTorch. Estou atualmente focado na interseção da visão computacional com outras disciplinas e em projetos desafiadores em ambientes de baixa luminosidade. Além do código, adoro compartilhar conhecimento em workshops e conferências. Se você estiver interessado em colaborações ou quiser discutir ideias, entre em contato por email (seuemail@example.com) ou visite meu perfil no LinkedIn (Seu Nome).l.
